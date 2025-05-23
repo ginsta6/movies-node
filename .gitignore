@@ -15,5 +15,3 @@ coverage
 *.local
 
 data/database*
-
-.env
